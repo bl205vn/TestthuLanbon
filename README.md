@@ -22,4 +22,5 @@ Cách gửi lên git từ git bash:
 để bắt đầu tạo gói để gửi lên git. Trong "" là ghi chú (kiểu vậy)
 
 8- git push -u origin master                                             
-bắt đầu gửi lên, mục master là tên nhánh
+bắt đầu gửi lên, mục master là tên nhánh   
+Nhớ đăng nhập nữa

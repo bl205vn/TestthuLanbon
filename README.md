@@ -1,4 +1,5 @@
 Cách gửi lên git từ git bash:
+
 1- Vào thư mục muốn gửi lên->chuột phải->chọn open git bash here
 
 2- gõ git init                                                           

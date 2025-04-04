@@ -6,7 +6,7 @@ Cách gửi lên git từ git bash:
 để khởi tạo
 
 3- gõ touch .gitignore
-Để tạo mục loại trừ
+Để tạo mục loại trừ       
 (code trong git đấy)
 
 4- gõ git remote add origin https://github.com/bl205vn/TestthuLanbon.git 
